@@ -49,7 +49,7 @@ const AboutSection = () => {
                             </div>
                         </div>
                         <div className="container mx-auto text-start font-montserrat py-16 pb-0">
-                                <a href="/path/to/your/cv.pdf" download className="inline-block bg-customPink hover:bg-lightPink text-white font-semibold py-2 px-4 rounded-lg">
+                                <a href="/src/assets/Kimberly-Cordero-Resume.pdf" download className="inline-block bg-customPink hover:bg-lightPink text-white font-semibold py-2 px-4 rounded-lg">
                                     Download CV
                                 </a>
                         </div>

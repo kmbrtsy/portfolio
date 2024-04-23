@@ -12,7 +12,7 @@ const ProjectsSection = () => {
                         <img src="/src/assets/pject1.png" alt="Project 1" className="w-full h-64 object-cover" />
                         <div className="p-6">
                             <h3 className="text-xl font-semibold mb-4">Full-Stack E-Commerce Website</h3>
-                            <p className="text-gray-700">Explore our versatile team-oriented website, equipped with full-stack functionality and track progress with our intuitive admin dashboard.</p>
+                            <p className="text-gray-700">Versatile team-oriented website, equipped with full-stack functionality and track progress with our intuitive admin dashboard. Currently in development.</p>
                         </div>
                     </div>
 
@@ -21,7 +21,7 @@ const ProjectsSection = () => {
                         <img src="/src/assets/pject2.png" alt="Project 2" className="w-full h-64 object-cover" />
                         <div className="p-6">
                             <h3 className="text-xl font-semibold mb-4">UI/UX Website Design</h3>
-                            <p className="text-gray-700">The website is constructed as a single-page layout, developed using Squarespace's platform.</p>
+                            <p className="text-gray-700">The website is constructed as a single-page layout, developed using Squarespace's platform. Currently in development.</p>
                         </div>
                     </div>
                 </div>
