@@ -9,7 +9,7 @@ const Hero = () => {
                     Hello!
                 </p>
                 <h1 className="text-customGray text-5xl md:text-6xl lg:text-8xl font-montserrat font-bold py-4 md:py-6">
-                    <span className="text-4xl md:text-5xl">I'm</span> <span className="text-white font-radley italic underline">kimmy</span>
+                    <span className="text-3xl md:text-6xl lg:text-7xl">I'm</span> <span className="text-white font-radley italic underline">kimmy</span>
                 </h1>
                 <h1 className="text-5xl md:text-6xl lg:text-8xl font-montserrat font-bold mb-16 md:mb-24 lg:mb-32 text-customGray">a
                     <span className='font-radley italic text-white'> w</span>eb <span className='font-radley italic text-white'> d</span>eveloper
